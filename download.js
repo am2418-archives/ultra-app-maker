@@ -1,5 +1,5 @@
 if (config.type === "web") {
-// web.js
+// web.html
 
 } else if (config.type === "spimusic") {
 // music.js
